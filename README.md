@@ -1,4 +1,4 @@
-<img align="left" width="28.41%" src="IMG_0815.jpg">
+
 <div align="right">
   <h1 align="center">Hi 👋, I'm e3qz</h1>
   <h3 align="center">Studying Electronic and Computer engineering :)</h3>
